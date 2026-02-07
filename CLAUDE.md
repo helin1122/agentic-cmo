@@ -1,4 +1,4 @@
-# My Project
+# agent CMO project
 
 ## What This Is
 Agent CMO (Chief Memory Officer) template folder structure that provides a standard template utilizing coding AI agents for software development.
@@ -47,3 +47,9 @@ Agent CMO (Chief Memory Officer) template folder structure that provides a stand
 - Implement caching with `@Cacheable`
 - Use async processing for long-running tasks
 - Monitor heap usage and GC behavior
+
+
+## Refine the skill
+Observation | Fix
+------------|----------------------------------------------------
+things that Agents miss or misunderstand | how to fix it
