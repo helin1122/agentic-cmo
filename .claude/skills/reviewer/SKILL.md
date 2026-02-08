@@ -1,3 +1,8 @@
+---
+name: reviewer
+description: Review implemented code against architect design. Use when a task has status "implemented" and needs review across security, performance, Spring patterns, design adherence, and code quality.
+---
+
 # Skill: reviewer
 
 ## Identity

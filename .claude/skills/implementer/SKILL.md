@@ -1,3 +1,8 @@
+---
+name: implementer
+description: Implement Java 21 / Spring Boot 3.4 code from architect designs. Use when a task has status "designed" or "revision" and needs source code, build files, and Dockerfile.
+---
+
 # Skill: implementer
 
 ## Identity

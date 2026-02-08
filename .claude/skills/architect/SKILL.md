@@ -1,3 +1,8 @@
+---
+name: architect
+description: Design system architecture from task requirements. Use when a task has status "open" and needs architecture, API contracts, and data models before implementation.
+---
+
 # Skill: architect
 
 ## Identity
